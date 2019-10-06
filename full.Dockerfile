@@ -1,6 +1,6 @@
 FROM alpine
 
-MAINTAINER André Carneiro <https://github.com/r4mmer/docker-redis-alpine>
+MAINTAINER André Carneiro <https://github.com/r4mmer/docker-redis-tools>
 
 RUN apk update && \
     apk upgrade --no-cache && \
